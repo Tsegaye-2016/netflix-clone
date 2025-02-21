@@ -1,5 +1,5 @@
 {
-  "homepage": "https;//Tsegaye-2016.github.io/netflix-clone",
+  "homepage": "https://Tsegaye-2016.github.io/netflix-clone",
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d build",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
